@@ -1,0 +1,15 @@
+/workspaces/Codes/FATAL/bin/Debug/net7.0/FATAL
+/workspaces/Codes/FATAL/bin/Debug/net7.0/FATAL.deps.json
+/workspaces/Codes/FATAL/bin/Debug/net7.0/FATAL.runtimeconfig.json
+/workspaces/Codes/FATAL/bin/Debug/net7.0/FATAL.dll
+/workspaces/Codes/FATAL/bin/Debug/net7.0/FATAL.pdb
+/workspaces/Codes/FATAL/obj/Debug/net7.0/FATAL.csproj.AssemblyReference.cache
+/workspaces/Codes/FATAL/obj/Debug/net7.0/FATAL.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Codes/FATAL/obj/Debug/net7.0/FATAL.AssemblyInfoInputs.cache
+/workspaces/Codes/FATAL/obj/Debug/net7.0/FATAL.AssemblyInfo.cs
+/workspaces/Codes/FATAL/obj/Debug/net7.0/FATAL.csproj.CoreCompileInputs.cache
+/workspaces/Codes/FATAL/obj/Debug/net7.0/FATAL.dll
+/workspaces/Codes/FATAL/obj/Debug/net7.0/refint/FATAL.dll
+/workspaces/Codes/FATAL/obj/Debug/net7.0/FATAL.pdb
+/workspaces/Codes/FATAL/obj/Debug/net7.0/FATAL.genruntimeconfig.cache
+/workspaces/Codes/FATAL/obj/Debug/net7.0/ref/FATAL.dll
