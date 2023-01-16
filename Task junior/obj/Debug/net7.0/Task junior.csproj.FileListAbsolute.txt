@@ -1,0 +1,15 @@
+/workspaces/Codes/Task junior/obj/Debug/net7.0/Task junior.csproj.AssemblyReference.cache
+/workspaces/Codes/Task junior/obj/Debug/net7.0/Task junior.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Codes/Task junior/obj/Debug/net7.0/Task junior.AssemblyInfoInputs.cache
+/workspaces/Codes/Task junior/obj/Debug/net7.0/Task junior.AssemblyInfo.cs
+/workspaces/Codes/Task junior/obj/Debug/net7.0/Task junior.csproj.CoreCompileInputs.cache
+/workspaces/Codes/Task junior/bin/Debug/net7.0/Task junior
+/workspaces/Codes/Task junior/bin/Debug/net7.0/Task junior.deps.json
+/workspaces/Codes/Task junior/bin/Debug/net7.0/Task junior.runtimeconfig.json
+/workspaces/Codes/Task junior/bin/Debug/net7.0/Task junior.dll
+/workspaces/Codes/Task junior/bin/Debug/net7.0/Task junior.pdb
+/workspaces/Codes/Task junior/obj/Debug/net7.0/Task junior.dll
+/workspaces/Codes/Task junior/obj/Debug/net7.0/refint/Task junior.dll
+/workspaces/Codes/Task junior/obj/Debug/net7.0/Task junior.pdb
+/workspaces/Codes/Task junior/obj/Debug/net7.0/Task junior.genruntimeconfig.cache
+/workspaces/Codes/Task junior/obj/Debug/net7.0/ref/Task junior.dll
