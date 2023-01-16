@@ -1,0 +1,15 @@
+/workspaces/Codes/Draft/obj/Debug/net7.0/Draft.csproj.AssemblyReference.cache
+/workspaces/Codes/Draft/obj/Debug/net7.0/Draft.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Codes/Draft/obj/Debug/net7.0/Draft.AssemblyInfoInputs.cache
+/workspaces/Codes/Draft/obj/Debug/net7.0/Draft.AssemblyInfo.cs
+/workspaces/Codes/Draft/obj/Debug/net7.0/Draft.csproj.CoreCompileInputs.cache
+/workspaces/Codes/Draft/bin/Debug/net7.0/Draft
+/workspaces/Codes/Draft/bin/Debug/net7.0/Draft.deps.json
+/workspaces/Codes/Draft/bin/Debug/net7.0/Draft.runtimeconfig.json
+/workspaces/Codes/Draft/bin/Debug/net7.0/Draft.dll
+/workspaces/Codes/Draft/bin/Debug/net7.0/Draft.pdb
+/workspaces/Codes/Draft/obj/Debug/net7.0/Draft.dll
+/workspaces/Codes/Draft/obj/Debug/net7.0/refint/Draft.dll
+/workspaces/Codes/Draft/obj/Debug/net7.0/Draft.pdb
+/workspaces/Codes/Draft/obj/Debug/net7.0/Draft.genruntimeconfig.cache
+/workspaces/Codes/Draft/obj/Debug/net7.0/ref/Draft.dll
